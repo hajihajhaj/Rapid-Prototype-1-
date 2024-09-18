@@ -1,16 +1,18 @@
 Define the desired game mechanic or feature. What are you making?
 Outline an objective statement for the design. What question are you trying to answer with your prototype? Why?
 Detail design rationale. What kind of experience do you envision? How is it innovative or experimental?
+We envision players feeling curious and strategic while playing this game. Seeing the upper path while still on the lower encourages them to plan ahead and consider their next moves. Teleporting to the upper path introduces a new challenge, adding depth to the gameplay. This is innovative because most 2D platformers donâ€™t allow players to preview upcoming levels, making this experience unique and engaging.
+
 ---
 
 Gameplay Overview:
-• What is the core gameplay loop (e.g., actions that players repeatedly perform)?
+ï¿½ What is the core gameplay loop (e.g., actions that players repeatedly perform)?
 Target Audience:
-• Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
+ï¿½ Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
 Player Experience Goals:
-• What specific feelings, moods, or emotional responses do you want players to have?
+ï¿½ What specific feelings, moods, or emotional responses do you want players to have?
 Technical Requirements:
-• What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
+ï¿½ What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
 ----------
 So we've got; 2D, platformer, teleportation.  What if we have a stage that has two linear paths, one above and below, and you start on the lower path but you can see the path above. To get to the end you have to reach the end of the first path and teleport up to the second path and go back to the start but on the second floor of the scene?
  
