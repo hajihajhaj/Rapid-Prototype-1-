@@ -1,8 +1,6 @@
-Define the desired game mechanic or feature. What are you making?
+Define the desired game mechanic or feature. What are you making? A 2D platformer with two paths: one below and one above. At the end of the lower path, there is a teleporter that takes you to the upper path. While on the first path, you can see the path above.
 Outline an objective statement for the design. What question are you trying to answer with your prototype? Why?
 Detail design rationale. What kind of experience do you envision? How is it innovative or experimental?
-We envision players feeling curious and strategic while playing this game. Seeing the upper path while still on the lower encourages them to plan ahead and consider their next moves. Teleporting to the upper path introduces a new challenge, adding depth to the gameplay. This is innovative because most 2D platformers don’t allow players to preview upcoming levels, making this experience unique and engaging.
-
 ---
 
 Gameplay Overview:
