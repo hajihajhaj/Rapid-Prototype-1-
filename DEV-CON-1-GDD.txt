@@ -4,7 +4,7 @@ A 2D platformer with two paths: one below and one above. At the end of the lower
 Outline an objective statement for the design. What question are you trying to answer with your prototype? Why?
 
 Detail design rationale. What kind of experience do you envision? How is it innovative or experimental?
-We envision players feeling curious and strategic while playing this game. Seeing the upper path while still on the lower encourages them to plan ahead and consider their next moves. Teleporting to the upper path introduces a new challenge, adding depth to the gameplay. This is innovative because most 2D platformers don’t allow players to preview upcoming levels, making this experience unique and engaging.
+We envision players feeling curious and strategic while playing this game. Seeing the upper path while still on the lower encourages them to plan ahead and consider their next moves. Teleporting to the upper path introduces a new challenge, adding depth and balance to the gameplay. Players will feel rewarded for their planning and decision-making. This is innovative because most 2D platformers don’t allow players to preview upcoming levels, making this experience unique and engaging.
 ---
 
 Gameplay Overview:
@@ -18,7 +18,7 @@ What specific feelings, moods, or emotional responses do you want players to hav
 
 Technical Requirements:
 What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
-We will be using GameMaker, primarily GML Visual, to prototype our game. We will also incorporate code from previous assignments to help develop the teleportation mechanic and other core game features.
+We will be using GameMaker, primarily GML Visual, to prototype our game. We will also incorporate code from previous assignments to help develop the teleportation mechanic and other core game features. We prefer this engine because it allows for rapid prototyping without having to know how to code. Its really simple to use and has great results.
 
 ----------
 So we've got; 2D, platformer, teleportation.  What if we have a stage that has two linear paths, one above and below, and you start on the lower path but you can see the path above. To get to the end you have to reach the end of the first path and teleport up to the second path and go back to the start but on the second floor of the scene?
