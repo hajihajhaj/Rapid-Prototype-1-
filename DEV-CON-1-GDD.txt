@@ -12,9 +12,12 @@ What is the core gameplay loop (e.g., actions that players repeatedly perform)?
 
 Target Audience:
 Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
+This game is designed for both casual and hardcore players who enjoy a strategic challenge. The teleportation mechanic adds an extra layer of complexity, making players think about how to time their jumps and plan their next moves. Players must carefully jump over the teleporter without dying to succeed, which highlights the importance of timing. Additionally, the teleportation mechanics cater to both audiences by allowing players to easily access new areas, enhancing exploration.
+
 
 Player Experience Goals:
 What specific feelings, moods, or emotional responses do you want players to have?
+We aim to make players feel excited and curious. After teleporting, we want them to be eager to explore the next level. The teleportation mechanic creates tension, requiring players to time their movements precisely to succeed. This challenge enhances the sense of reward when they achieve their goals. Overall, we want players to enjoy the game and feel a sense of accomplishment when they overcome obstacles.
 
 Technical Requirements:
 What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
