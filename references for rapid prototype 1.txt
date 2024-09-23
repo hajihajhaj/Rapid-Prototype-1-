@@ -1,0 +1,17 @@
+Citations for rapid prototype 1
+
+tileset: https://free-game-assets.itch.io/free-swamp-2d-tileset-pixel-art
+
+ui and collectable: Minecraft
+
+background image: not found
+
+teleporter: https://pixelartmaker.com/art/879bd50ebebcc4e
+
+red flag checkpoint: https://pixelartmaker.com/art/3d97d50d33cfab0
+
+cat player: https://bowpixel.itch.io/cat-50-animations
+
+.gitattributes: chatgpt
+
+additional industry-standard GDD questions: chatgpt
