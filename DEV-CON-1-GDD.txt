@@ -10,7 +10,7 @@ We envision players feeling curious and strategic while playing this game. Seein
 
 Gameplay Overview:
 What is the core gameplay loop (e.g., actions that players repeatedly perform)?
-
+The core gameplay loops is like many other platforming games. The player will navigate through hazards and enemies, avoiding pitfalls and taking damage while jumping between platforms. Additionally, the player will be able to see the second half of their current stage passing above the path they are currently navigating. This will telegraph upcoming hazards for the player to try to memorize or remember. When players reach the end of the first half of the stage they will be teleported above to the level they have seen but not navigated. 
 
 Target Audience:
 Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
